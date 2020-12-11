@@ -1,4 +1,4 @@
-# demo-full
+# products-demo
 
 ## Project setup
 ```
